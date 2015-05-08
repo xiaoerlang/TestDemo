@@ -10,5 +10,11 @@ public class Activity02 extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.main01);
 		System.out.println("ceshi");
+		System.out.println("ceshi");
+		System.out.println("ceshi");
+		System.out.println("ceshi");
+		
+		System.out.println("ceshi");
+		System.out.println("ceshi");
 	}
 }
