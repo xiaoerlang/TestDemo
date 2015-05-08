@@ -9,5 +9,6 @@ public class Activity02 extends Activity {
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.main01);
+		System.out.println("ceshi");
 	}
 }
